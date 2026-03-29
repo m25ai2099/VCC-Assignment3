@@ -29,4 +29,4 @@ bash ../scripts/stress.sh
 Local VM → Monitoring Script → Threshold Trigger → Cloud Scaling → App Deployment
 
 ## Demo Video
-https://drive.google.com/file/d/1dMK-R5IS1JMgB7d0WL-Kcp8pYeszg3lG/view?usp=sharing
+https://drive.google.com/file/d/1u1EIT-5Z4Ukl0rRWxYAag29bucKZhKoL/view?usp=drive_link
